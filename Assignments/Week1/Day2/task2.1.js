@@ -14,4 +14,5 @@ function numType(num)
             console.log(`${num} is a neutral number`)
         }
 }
+
 numType(num)
